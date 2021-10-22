@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @afriantez
-- 👀 I’m interested in Computer Hardware
-- 🌱 I’m currently learning firebending
-- 💞️ I’m looking to collaborate on myself
-- 📫 IDK how to reach me
+- a
+- s
+- u
 
 <!---
 afriantez/afriantez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
